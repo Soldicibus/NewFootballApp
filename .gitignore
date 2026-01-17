@@ -1,0 +1,6 @@
+.vscode/
+bin/
+obj/
+*.user
+nuget.config
+nuget.config.bak
